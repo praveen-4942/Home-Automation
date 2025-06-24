@@ -60,7 +60,11 @@ This project automates household appliances by leveraging **Bluetooth-based comm
 
 ## 🔌 Circuit Diagram
 
-> *📷 Add your circuit image here*  
+> *📷 Add your circuit image here*
+> <p align="center">
+  <img src="circuit-diagram.png" width="500" alt="Circuit Diagram"><br>
+  <em>Figure 1: Home Automation Circuit Diagram</em>
+</p>
 
 
 ---
